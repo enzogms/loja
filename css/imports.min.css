@@ -519,6 +519,7 @@ input[type=button].button-primary:hover {
 	border-color: #1EAEDB
 }
 
+
 input[type=tel],
 input[type=url],
 input[type=password],
@@ -717,7 +718,7 @@ hr {
         width: 100%;
         height: 100%;
         object-fit: cover;
-        animation: zoom 2.12s;
+        animation: zoom .6s;
     }
     
     .zoom:hover img {
