@@ -41,7 +41,7 @@ $(function() {
 	    // custom function to add shipping cost
 		// Função que altera o frete para gratuito.
 	        shippingCustom: function(){ 
-         if( simpleCart.quantity() >= 5 ){
+         if( simpleCart.total() >= 300 ){
               return 0;
          } else {
               return 25;
