@@ -39,19 +39,27 @@ $(function() {
 	    ],
 
 	    // custom function to add shipping cost
-	    shippingCustom: null,
+		// Função que altera o frete para gratuito.
+	        shippingCustom: function(){ 
+         if( simpleCart.quantity() >= 5 ){
+              return 0;
+         } else {
+              return 25;
+         }
+    },
+
 
 	    // flat rate shipping option
-	    shippingFlatRate: 0,
+	    shippingFlatRate: null,
 
 	    // added shipping based on this value multiplied by the cart quantity
-	    shippingQuantityRate: 0,
+	    shippingQuantityRate: null,
 
 	    // added shipping based on this value multiplied by the cart subtotal
-	    shippingTotalRate: 0,
+	    shippingTotalRate: null,
 
 	    // tax rate applied to cart subtotal
-	    taxRate: 0,
+	    taxRate: null,
 
 	    // true if tax should be applied to shipping
 	    taxShipping: false,
