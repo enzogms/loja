@@ -4,13 +4,13 @@ $(function() {
 	    // array representing the format and columns of the cart, see
 	    // the cart columns documentation
 	    cartColumns: [
-	        { attr: "name" , label: "Name" },
-	        { attr: "price" , label: "Price", view: 'currency' },
+	        { attr: "name" , label: "Nome" },
+	        { attr: "price" , label: "Preço", view: 'currency' },
 	        { view: "decrement" , label: false },
-	        { attr: "quantity" , label: "Qty" },
+	        { attr: "quantity" , label: "Qtd" },
 	        { view: "increment" , label: false },
 	        { attr: "total" , label: "SubTotal", view: 'currency' },
-	        { view: "remove" , text: "Remove" , label: false }
+	        { view: "remove" , text: "Remover" , label: false }
 	    ],
 
 	    // "div" or "table" - builds the cart as a table or collection of divs
