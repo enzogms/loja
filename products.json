@@ -1,13 +1,13 @@
 {
 	"products" : [
 		{
-			"name" : "Awesome T-shirt",
-			"price" : "35.99",
+			"name" : "Camiseta Nike Corinthians III",
+			"price" : "249.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Tam" : "P,M,G,GG,GGG" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is a very awesome grey T-shirt"
+			"image" : "images/corinthiansiii21.webp",
+			"description" : "53% da torcida do Corinthians é feminina. A nova camisa é inspirada nelas: nas minas Corinthianas que nunca param de acreditar"
 		},
 		{
 			"name" : "Cool T-shirt",
