@@ -23,7 +23,7 @@ $(function() {
 	    },
 
 	    // set the currency, see the currency reference for more info
-	    currency: "USD",
+	    currency: "BRL",
 
 	    // collection of arbitrary data you may want to store with the cart,
 	    // such as customer info
@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "SimpleStore",
+		brand : "TADINHOS",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
