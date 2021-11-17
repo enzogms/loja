@@ -26,6 +26,213 @@
 			],
 			"image" : "images/cortacorinthias.jpg",
 			"description" : "Homenageia um clássico. Ela apresenta detalhes de design icônicos, com as cores do timão."
+		},
+		{
+			"name" : "Camisa Santos I 21/22",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/2IA-0604-028_zoom1.jpg",
+			"description" : "De glórias e orgulhos. De moleques levados que desenham magia. Celebre as conquistas do alvinegro praiano dentro e fora dos estádios com a nova Camisa Santos Umbro Masculina."
+
+		},
+		{
+			"name" : "Camisa Santos III 21/22",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/2IA-1638-148_zoom1.jpg",
+			"description" : "Com pegada retrô, o manto III da temporada 21/22 é inspirado nos uniformes dos anos 90 com gola polo clássica e detalhes em branco."
+
+
+		},
+		{
+			"name" : "Jaqueta Santos 21/22",
+			"price" : "349.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/c667880ba34bb09435c698e357840d9a.jpg",
+			"description" : "Vista as cores do alvinegro praiano também nos dias mais frios com a Jaqueta Santos Umbro Masculina."
+		},
+		{
+			"name" : "Camisa Palmeiras I 21/22",
+			"price" : "269.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NWG-2925-060_zoom1.jpg",
+			"description" : "Atenção, Nação Alviverde! Chegou o novo manto do Verdão."
+
+		},
+		{
+			"name" : "Camisa Palmeiras II 21/22",
+			"price" : "269.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NWG-2929-014_zoom1.jpg",
+			"description" : "Onde vive nossa memória se não em cada vitória? Atenção, nação alviverde."
+		},
+		{
+			"name" : "Jaqueta Palmeiras Stadium",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/255,255,255.jpg",
+			"description" : " jaqueta Stadium faz parte da coleção 2021 casual do Palmeiras e traz todos os elementos icônicos do clube."
+
+		},
+		{
+			"name" : "Camisa São Paulo I 21/22",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NQQ-7791-024_zoom1.jpg",
+			"description" : "De São Paulo tens o nome! Há 30 anos, Tele Santana comemorava seu primeiro título comandando o Tricolor."
+		},
+		{
+			"name" : "Camisa São Paulo II 21/22",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NQQ-7793-056_zoom1.jpg",
+			"description" : "Você pediu, a Adidas atendeu! A nova Camisa São Paulo Masculina está como a torcida gosta: clássica."
+
+		},
+		{
+			"name" : "Jaqueta São Paulo 21/22",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaqueta-corta-vento-do-sao-paulo-21-adidas-masculina-com-capuz-img (1).webp",
+			"description" : "Com a Jaqueta Corta-Vento do São Paulo 21 adidas, os tricolores paulistas estarão bem aconchegantes e estilosos nas partidas e outras ocasiões quando o clima esfriar."
+
+		},
+		{
+			"name" : "Camisa Seleção Brasileira 20/21",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/HZM-3813-046_zoom1.jpg",
+			"description" : "Respeitando o passado e construindo o futuro! A nova Camisa da Seleção Brasileira Nike chegou para você demonstrar sua paixão pelo Brasil em todos os momentos."
+		},
+		{
+			"name" : "Camisa Seleção Brasil I 20/21",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/HZM-3819-076_detalhe1.jpg",
+			"description" : "Respeitando o passado e construindo o futuro! A nova Camisa da Seleção Brasileira Nike chegou para você demonstrar sua paixão pelo Brasil em todos os momentos."
+		},
+		{
+			"name" : "Jaqueta Seleção Brasil 20/21",
+			"price" : "219.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/HZM-3824-030_zoom1.jpg",
+			"description" : "Exiba seu orgulho e paixão pela Seleção Brasileira com a nova Jaqueta Brasil Nike Masculina."
+
+		},
+		{
+			"name" : "Camisa Paris Saint-Germain Home 21/22 ",
+			"price" : "299.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camiseta-nike-psg-i-202122-jogador-masculina-CV7851-411-1.jpg",
+			"description" : "Represente o seu time na Camisa Paris Saint-Germain Match Home."
+
+		},
+		{
+			"name" : "Camisa Paris Saint-Germain Away 21/22 ",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/2IC-3662-028_zoom1.jpg",
+			"description" : "Allez, Paris! A rapaziada vai exibir sua torcida por Neymar, Mbappé e companhia vestindo a nova Camisa Masculina Nike do PSG."
+
+		},
+		{
+			"name" : "Jaqueta Jordan PSG 21/22 ",
+			"price" : "549.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/blusao-m-j-psg-nylon-hooded-jkt-DB6487-100-1.jpg",
+			"description" : "Allez, Paris! Dois ícones colidem nesta peça pronta para as ruas."
+		},
+		{
+			"name" : "Camisa Barcelona I 21/22 Nike ",
+			"price" : "219.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa-barcelona-i-21-22-nike-masculina-img.webp",
+			"description" : "Visca, Barça! Chegou a nova Camisa Barcelona Nike Masculina."
+			
+		},
+		{
+			"name" : "Camisa Barcelona II Away 21/22 Nike ",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa-barcelona-ii-2021-22-torcedor-nike-masculina-img.jpg",
+			"description" : "Visca, Barça! Demonstre seu apoio pela igualdade de gênero e torcida pelo Barça usando a nova Camisa Barcelona Masculina da Nike. Com objetivo de enviar uma mensagem a favor da diversidade e do empoderamento feminino, o terceiro manto da temporada 21/22 é predominantemente lilás."
+
+		},
+		{
+			"name" : "Jaqueta Barcelona 21/22 Nike ",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaqueta-barcelona-21-nike-acd-sa-masculina-img.webp",
+			"description" : "Visca, Barça! Turbine seu visual boleiro nos dias mais frios sem deixar a torcida de lado usando a Jaqueta Nike Masculina do Barcelona."
+
+		},
+		{
+			"name" : "Camisa Real Madrid Home 21/22 Adidas ",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa_real_madrid_home_2021_22_masculino_597_1_b1d831ca71573199ece09f19a9ab7351.webp",
+			"description" : "Feita para comemorar conquistas! Os títulos se ganham em campo, mas é na Plaza de Cibeles que os madrilenhos celebram seus feitos."
+		},
+		{
+			"name" : "Camisa Real Madrid  Away 21/22 Adidas ",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa-real-madrid-ii-21-22-adidas-masculina-img.webp",
+			"description" : "Inspirada no passado, a nova Camisa Real Madrid Masculina da Adidas carrega cores que lembram muito o terceiro manto da temporada 98/99."
+		},
+		{
+			"name" : "Jaqueta Hino Real Madrid 21/22 Adidas ",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/Jaqueta Real M..jpg",
+			"description" : "Não importa o quão talentoso no futebol você é. Sem os seus companheiros de time, a vitória fica impossível."
+
 		}
-	]
-}
+
+
+
+		]
+	}
+
