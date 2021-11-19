@@ -1,0 +1,145 @@
+{
+	"products" : [
+		{
+			"name" : "Camisa Manchester City Home 21/22 ",
+			"price" : "259.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/city1.jpg",
+			"description" : "Aumente sua coleção de camisas de futebol garantindo a nova Camisa Masculina do Manchester City."
+		},
+		{
+			"name" : "Camisa Manchester City Away 21/22 ",
+			"price" : "299.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/city2.jpg",
+			"description" : "Aumente sua coleção de camisas de futebol garantindo a nova Camisa Masculina do Manchester City."
+		},
+		{
+			"name" : "Jaqueta Manchester City Treino 21/22 ",
+			"price" : "349.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetacity.jpg",
+			"description" : "Direto da coleção oficial teamCUP – desenvolvida para atender às demandas de estilo e função de cada jogador."
+
+		},
+		{
+			"name" : "Camisa Manchester United Home 21/22 ",
+			"price" : "279.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/united1.jpg",
+			"description" : "Os Red Devils entram em campo e você fica na torcida devidamente uniformizado com a Camisa Manchester United Masculina da Adidas."
+
+		},
+		{
+			"name" : "Camisa Manchester United Away 21/22 ",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/united2.webp",
+			"description" : "om design contemporâneo e abstrato, a nova Camisa Manchester United Masculina da Adidas é o manto que não pode faltar na sua coleção de camisas de futebol."
+		},
+		{
+			"name" : "Jaqueta Manchester United Hino 21/22 ",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetaunited.jpg",
+			"description" : "Os heróis de Old Trafford aguardam o pontapé inicial com orgulho."	
+		},
+		{
+			"name" : "Camisa Liverpool Home 21/22 ",
+			"price" : "179.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/liverpool1.jpg",
+			"description" : "Aumente sua coleção de camisas de futebol garantindo a nova Camisa Liverpool Nike Masculina."	
+		},
+		{
+			"name" : "Camisa Liverpool Away 21/22 ",
+			"price" : "239.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/liverpool2.jpg",
+			"description" : "Os Reds vão jogar fora de casa e você fica na torcida com a nova Camisa Liverpool Masculina da Nike."	
+		},
+		{
+			"name" : "Jaqueta Liverpool Treino 21/22 ",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetaliverpool.jpg",
+			"description" : "Conte com a Jaqueta Liverpool Nike Masculina para turbinar seu visual boleiro."	
+
+		},
+		{
+			"name" : "Camisa Chelsea Home 21/22 ",
+			"price" : "239.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/chelsea1.jpg",
+			"description" : "Os fãs de futebol inglês, em especial dos Blues, não podem deixar de garantir a nova Camisa Chelsea Nike Masculina."
+		},
+		{
+			"name" : "Camisa Chelsea Away 21/22 ",
+			"price" : "279.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/chelsea2.jpg",
+			"description" : "Os Blues entram em campo e você fica na torcida devidamente uniformizado com a Camisa Chelsea Away Nike Masculina."
+		},
+		{
+			"name" : "Jaqueta Chelsea 21/22 ",
+			"price" : "239.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetachelsea.webp",
+			"description" : "Os Blues entram em campo e você fica na torcida devidamente uniformizado com a Jaqueta Chelsea Nike Masculina."	
+		},
+		{
+			"name" : "Camisa Totenham Home 21/22 ",
+			"price" : "300.00",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/Totenham1.jpg",
+			"description" : "SEU TIME. SUAS CORES. Assim como outras camisas da coleção Torcedor Pro. a camisa Tottenham Hotspur combina detalhes de design réplica com tecido que antissuor."
+
+		},
+		{
+			"name" : "Camisa Totenham Away 21/22 ",
+			"price" : "239.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/totenham2.jpg",
+			"description" : "Aposte no diferente garantindo a nova Camisa Masculina do Tottenham."
+		},
+		{
+			"name" : "Jaqueta Totenham 21/22 ",
+			"price" : "279.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetatotenham.jpg",
+			"description" : "Aposte no diferente garantindo a nova Camisa Masculina do Tottenham."
+		}
+
+		]
+	}
+
