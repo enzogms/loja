@@ -1,0 +1,150 @@
+{
+	"products" : [
+		{
+			"name" : "Camiseta Nike Corinthians III",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/corinthiansiii21.webp", 
+			"description" : "53% da torcida do Corinthians é feminina. A nova camisa é inspirada nelas: nas minas Corinthianas que nunca param de acreditar"
+		},
+		{
+			"name" : "Camisa Nike Corinthians I 21",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G" }
+			],
+			"image" : "images/camisa-do-corinthians-i-21-nike-masculina-img.webp",
+			"description" : "É com inspiração nas ruas rachadas de São Paulo, onde tantos fiéis do bando transitam todos os dias"
+		},
+		{
+			"name" : "Jaqueta Nike Corinthians Windrunner",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/2IC-3739-006_zoom1.jpg",
+			"description" : "Homenageia um clássico. Ela apresenta detalhes de design icônicos, com as cores do timão."
+		},
+		{
+			"name" : "Camisa Santos I 21/22",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/2IA-0604-028_zoom1.jpg",
+			"description" : "De glórias e orgulhos. De moleques levados que desenham magia. Celebre as conquistas do alvinegro praiano dentro e fora dos estádios com a nova Camisa Santos Umbro Masculina."
+
+		},
+		{
+			"name" : "Camisa Santos III 21/22",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/2IA-1638-148_zoom1.jpg",
+			"description" : "Com pegada retrô, o manto III da temporada 21/22 é inspirado nos uniformes dos anos 90 com gola polo clássica e detalhes em branco."
+
+
+		},
+		{
+			"name" : "Jaqueta Santos 21/22",
+			"price" : "349.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/c667880ba34bb09435c698e357840d9a.jpg",
+			"description" : "Vista as cores do alvinegro praiano também nos dias mais frios com a Jaqueta Santos Umbro Masculina."
+		},
+		{
+			"name" : "Camisa Palmeiras I 21/22",
+			"price" : "269.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NWG-2925-060_zoom1.jpg",
+			"description" : "Atenção, Nação Alviverde! Chegou o novo manto do Verdão."
+
+		},
+		{
+			"name" : "Camisa Palmeiras II 21/22",
+			"price" : "269.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NWG-2929-014_zoom1.jpg",
+			"description" : "Onde vive nossa memória se não em cada vitória? Atenção, nação alviverde."
+		},
+		{
+			"name" : "Jaqueta Palmeiras Stadium",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/255,255,255.jpg",
+			"description" : " jaqueta Stadium faz parte da coleção 2021 casual do Palmeiras e traz todos os elementos icônicos do clube."
+
+		},
+		{
+			"name" : "Camisa São Paulo I 21/22",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NQQ-7791-024_zoom1.jpg",
+			"description" : "De São Paulo tens o nome! Há 30 anos, Tele Santana comemorava seu primeiro título comandando o Tricolor."
+		},
+		{
+			"name" : "Camisa São Paulo II 21/22",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/NQQ-7793-056_zoom1.jpg",
+			"description" : "Você pediu, a Adidas atendeu! A nova Camisa São Paulo Masculina está como a torcida gosta: clássica."
+
+		},
+		{
+			"name" : "Jaqueta São Paulo 21/22",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaqueta-corta-vento-do-sao-paulo-21-adidas-masculina-com-capuz-img (1).webp",
+			"description" : "Com a Jaqueta Corta-Vento do São Paulo 21 adidas, os tricolores paulistas estarão bem aconchegantes e estilosos nas partidas e outras ocasiões quando o clima esfriar."
+
+		},
+		{
+			"name" : "Camisa Flamengo I 21/22",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisaflamengo1.jpg",
+			"description" : "Alô, Nação Rubro-Negra! Chegou o novo manto do Mengão para a temporada 21/22. Inspirado no modelo que os craques do Flamengo usaram no “ano de ouro”."
+
+		}, 
+		{ 
+			"name" : "Camisa Flamengo II 21/22",
+			"price" : "179.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisaflamengo2.jpg",
+			"description" : "A camiseta ideal para todos os momentos, aquela que garante conforto e segurança para se mover livremente e que é a combinação perfeita entre desempenho e conforto."
+		},
+		{	
+			"name" : "Jaqueta Flamengo  Hino 21/22",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetaflamengo.jpg",
+			"description" : "Veja o Flamengo brilhar dentro das quatro linhas e exiba sua torcida em todos os momentos usando a Jaqueta Flamengo Masculina da Adidas."
+
+		}
+
+		]
+	}
+
