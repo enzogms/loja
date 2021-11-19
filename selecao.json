@@ -1,0 +1,115 @@
+{
+	"products" : [
+		{
+			"name" : "Camisa Seleção Brasileira I 20/21",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/HZM-3813-046_zoom1.jpg",
+			"description" : "Respeitando o passado e construindo o futuro! A nova Camisa da Seleção Brasileira Nike chegou para você demonstrar sua paixão pelo Brasil em todos os momentos."
+		},
+		{
+			"name" : "Camisa Seleção Brasileira II 20/21",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/HZM-3819-076_detalhe1.jpg",
+			"description" : "Respeitando o passado e construindo o futuro! A nova Camisa da Seleção Brasileira Nike chegou para você demonstrar sua paixão pelo Brasil em todos os momentos."
+		},
+		{
+			"name" : "Jaqueta Seleção Brasileira 20/21",
+			"price" : "219.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/HZM-3824-030_zoom1.jpg",
+			"description" : "Exiba seu orgulho e paixão pela Seleção Brasileira com a nova Jaqueta Brasil Nike Masculina."
+		},
+		{
+			"name" : "Camisa Seleção Argentina I 20/21",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisaargentina 1.jpg",
+			"description" : "Uma obra-prima inspirada na paixão dos argentinos pelo futebol."
+		},
+		{
+			"name" : "Camisa Seleção Argentina II 20/21",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisaargentina2.jpg",
+			"description" : "Uma obra-prima inspirada na paixão dos argentinos pelo futebol."	
+		
+		},
+		{	
+			"name" : "Jaqueta Seleção Argentina Hino 20/21",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetaargentina.jpg",
+			"description" : "Os últimos minutos antes do pontapé inicial estão entre os momentos mais intensos do futebol. Capte a energia do estádio com esta Jaqueta Hino da Argentina."	
+		},
+		{	
+			"name" : "Camisa Seleção da Alemanha I 21/22",
+			"price" : "279.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisaalemanha1.jpg",
+			"description" : "Uma obra-prima, nascida em uma tela. Agora, pronta para entrar em ação. Esteja onde estiver. O caimento padrão da Camisa 1 da Alemanha é ideal para o estilo urbano."	
+		},
+		{
+			"name" : "Camisa Seleção da Alemanha II 21/22",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisaalemanha2.jpg",
+			"description" : "Uma obra-prima, nascida em uma tela. Agora, pronta para entrar em ação. Esteja onde estiver. O caimento padrão da Camisa 1 da Alemanha é ideal para o estilo urbano."
+		},
+		{
+			"name" : "Jaqueta Seleção da Alemanha Retrô 21/22",
+			"price" : "279.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetaalemanha.jpg",
+			"description" : "A Jaqueta de tradições, se vista com o manto pesado alemão 4 vezes campeões mundiais"
+		},
+		{
+			"name" : "Camisa Seleção da França I 20/21",
+			"price" : "179.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisafranca1.jpg",
+			"description" : "O SEU TIME. AS SUAS CORES.Represente o seu time com a Camisa Nike França I 2020/21 Torcedor Pro."
+		},
+		{
+			"name" : "Camisa Seleção da França II 20/21",
+			"price" : "199.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisafranca2.jpg",
+			"description" : "O moletom com capuz FFF Tech Pack é confeccionado com tecido macio e elástico para manter você se movendo confortavelmente dentro e fora de campo."
+		},
+		{
+			"name" : "Jaqueta Seleção da França 21/22",
+			"price" : "309.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetafranca.jpg",
+			"description" : "O moletom com capuz FFF Tech Pack é confeccionado com tecido macio e elástico para manter você se movendo confortavelmente dentro e fora de campo."
+		}
+
+		]
+	}
+
