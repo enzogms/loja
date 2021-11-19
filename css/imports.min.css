@@ -492,8 +492,9 @@ input[type=reset]:focus,
 input[type=reset]:hover,
 input[type=button]:focus,
 input[type=button]:hover {
-	color: #333;
-	border-color: #888;
+	color: #FFF;
+	background-color: #1EAEDB;
+	border-color: #1EAEDB;
 	outline: 0
 }
 
