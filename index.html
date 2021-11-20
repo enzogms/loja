@@ -30,6 +30,7 @@
 </head>
 <body>
 
+    <!-- Pop up de frete gratis -->
     <script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=946ef78f21f61' async='true'></script>
     <!-- Primary Page Layout
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -145,6 +146,59 @@
 
 <!-- End Document
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<!-- Botão voltar ao topo -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
+<style type="text/css">
+#backtopo {
+    display: scroll;
+    position: fixed;
+    top: 30px;
+    right: 10px;
+}
+
+.topoimg {
+    height: 70%; 
+    width: 70%; 
+}
+
+</style>
+
+<div id="backtopo">
+<a href="#" title="Voltar ao topo">
+<img class="topoimg" src="images/topo2.png" onmouseout="this.src='images/topo2.png';" onmouseover="this.src='images/topo.png';" /></a>
+</div>
+
+<script>
+$(document).ready(function(){
+    
+    // hide #back-top first
+    $('#backtopo').hide();
+       
+    // fade in #back-top
+    $(function () {
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 150) {
+                $('#backtopo').fadeIn();
+            } else {
+                $('#backtopo').fadeOut();
+            }
+        });
+
+        // scroll body to 0px on click
+        $('#backtopo').click(function () {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+
+});
+</script>
+<!-- FIM DO SCRIPT DE VOLTAR AO TOPO -->
+
 </body>
 
 <!-- Scripts
