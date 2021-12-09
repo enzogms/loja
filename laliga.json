@@ -1,0 +1,157 @@
+{
+	"products" : [
+		{
+			"name" : "Camisa Barcelona I 21/22 Nike ",
+			"price" : "219.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa-barcelona-i-21-22-nike-masculina-img.webp",
+			"description" : "Visca, Barça! Chegou a nova Camisa Barcelona Nike Masculina."
+			
+		},
+		{
+			"name" : "Camisa Barcelona II Away 21/22 Nike ",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa-barcelona-ii-2021-22-torcedor-nike-masculina-img.jpg",
+			"description" : "Visca, Barça! Demonstre seu apoio pela igualdade de gênero e torcida pelo Barça usando a nova Camisa Barcelona Masculina da Nike. Com objetivo de enviar uma mensagem a favor da diversidade e do empoderamento feminino, o terceiro manto da temporada 21/22 é predominantemente lilás."
+
+		},
+		{
+			"name" : "Jaqueta Barcelona 21/22 Nike ",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaqueta-barcelona-21-nike-acd-sa-masculina-img.webp",
+			"description" : "Visca, Barça! Turbine seu visual boleiro nos dias mais frios sem deixar a torcida de lado usando a Jaqueta Nike Masculina do Barcelona."
+
+		},
+		{
+			"name" : "Camisa Real Madrid Home 21/22 Adidas ",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa_real_madrid_home_2021_22_masculino_597_1_b1d831ca71573199ece09f19a9ab7351.webp",
+			"description" : "Feita para comemorar conquistas! Os títulos se ganham em campo, mas é na Plaza de Cibeles que os madrilenhos celebram seus feitos."
+		},
+		{
+			"name" : "Camisa Real Madrid  Away 21/22 Adidas ",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa-real-madrid-ii-21-22-adidas-masculina-img.webp",
+			"description" : "Inspirada no passado, a nova Camisa Real Madrid Masculina da Adidas carrega cores que lembram muito o terceiro manto da temporada 98/99."
+		},
+		{
+			"name" : "Jaqueta Hino Real Madrid 21/22 Adidas ",
+			"price" : "399.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/Jaqueta Real M..jpg",
+			"description" : "Não importa o quão talentoso no futebol você é. Sem os seus companheiros de time, a vitória fica impossível."
+
+		},
+		{
+			"name" : "Camisa Atlético de Madrid Home 21/22 ",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/atletico-de-madrid-toksports4-4fac98150853a5f4f116269828024460-640-0.jpg",
+			"description" : "A nova camisa titular, segundo o clube, é inspirada em alguns detalhes da primeira camisa vermelha e branca vestida em 1947."
+	
+		},
+		{
+			
+			"name" : "Camisa Atlético de Madrid Away 21/22 ",
+			"price" : "169.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/atleticodemadridAWAY.webp",
+			"description" : "A camisa reserva para a temporada lembra um momento histórico da história do clube nos últimos 75 anos, o Double, conquista da Liga e da Copa na temporada 1995-1996."
+	
+
+		},
+		{
+			"name" : "Jaqueta Atlético de Madrid 21/22 ",
+			"price" : "229.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/blusaatleticodemadrid.jpg",
+			"description" : "A nova jaqueta do Atlético de Madrid simboliza as cores tradicionais do clube."
+	
+
+		},
+		{
+			"name" : "Camisa Villareal Home 21/22",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/homevillarreal.png",
+			"description" : "Desenvolvido para torcedores do submarino amarelo, em que a equipe disputa novamente a La Liga e a Champions League."
+
+		},
+		{
+			"name" : "Camisa Villareal Away 21/22 ",
+			"price" : "249.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/awayvillareal.jpg",
+			"description" : "A camisa para jogos como visitante ganha o vermelho como predominante em um design bastante exótico que traz rabiscos, como efeitos em onda sonora ao longo do corpo do manto."
+
+		},
+		{
+			"name" : "Jaqueta Villareal 2017 ",
+			"price" : "149.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetavillareal.jpg",
+			"description" : "A Jaqueta Joma Villarreal Viagem 2017 é ideal para os torcedores mostrarem sua paixão pelo time nos dias frios."
+
+		},
+		{
+			"name" : "Camisa Sevilla Home 21/22 ",
+			"price" : "189.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/Camisas-do-Sevilla-FC-2021-2022-Nike-kit-1.jpg",
+			"description" : "A camisa titular traz um modelo bastante simples, baseado em um template da Nike."
+		},
+		{
+			"name" : "Camisa Sevilla Away 20/21 ",
+			"price" : "169.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/camisa_sevilla_away_2021_22_683_1_eeb2f382845a15d1ef757c788193d7e3.webp",
+			"description" : "Carregue a honra de ser Rojiblanco com a 2º camisa do Sevilla para 2020, feita pela Nike."
+
+		},
+		{
+			"name" : "Jaqueta Sevilla 2019 ",
+			"price" : "359.99",
+			"options" : [
+				{ "Tam" : "P,M,G,GG,EGG" }
+			],
+			"image" : "images/jaquetasevilla.webp",
+			"description" : "A Nike apresenta a jaqueta do Sevilla para 2019, a peça ideal para proteger os torcedores tanto dentro como fora de campo."
+
+
+		}
+
+		]
+	}
+

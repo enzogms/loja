@@ -40,13 +40,13 @@ $(function() {
 
 	    // custom function to add shipping cost
 		// Função que altera o frete para gratuito.
-	        shippingCustom: function(){ 
-         if( simpleCart.total() >= 300 || simpleCart.quantity() == 0 ){
-              return 0;
-         } else {
-              return 25;
-         }
-    },
+		shippingCustom: function(){ 
+			if( simpleCart.total() >= 300 || simpleCart.quantity() == 0 ){
+				 return 0;
+			} else {
+				 return 25;
+			}
+	   },
 
 
 	    // flat rate shipping option
@@ -81,13 +81,13 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "TADINHOS",
+		brand : "BRASILEIRÃO",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
 
 		// name of JSON file, located in directory root
-		JSONFile : "products.json"
+		JSONFile : "brasileirao.json"
 
 	});
 

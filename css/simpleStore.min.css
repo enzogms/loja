@@ -3,7 +3,7 @@
 .brand,
 select {
 	display: block;
-	float: left
+	float: center
 }
 
 .brand,
@@ -321,4 +321,5 @@ p.error_text {
 	.item-total {
 		display: none!important
 	}
+	
 }

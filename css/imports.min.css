@@ -7,7 +7,10 @@ html {
 }
 
 body {
-	margin: 0
+	margin: 0%;
+	
+	
+	
 }
 
 article,
@@ -489,8 +492,9 @@ input[type=reset]:focus,
 input[type=reset]:hover,
 input[type=button]:focus,
 input[type=button]:hover {
-	color: #333;
-	border-color: #888;
+	color: #FFF;
+	background-color: #1EAEDB;
+	border-color: #1EAEDB;
 	outline: 0
 }
 
@@ -500,8 +504,8 @@ input[type=submit].button-primary,
 input[type=reset].button-primary,
 input[type=button].button-primary {
 	color: #FFF;
-	background-color: #33C3F0;
-	border-color: #33C3F0
+	background-color: black;
+	border-color: black
 }
 
 .button.button-primary:focus,
@@ -734,4 +738,25 @@ hr {
         100%{
             transform: scale(1);
         }
+		
      }
+	 /* Works on Firefox */
+* {
+	scrollbar-width: thin;
+	scrollbar-color: black white;
+  }
+  
+  /* Works on Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+	width: 12px;
+  }
+  
+  *::-webkit-scrollbar-track {
+	background: white;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+	background-color: black;
+	border-radius: 20px;
+	border: 3px solid white;
+  }
